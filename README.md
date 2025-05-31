@@ -123,7 +123,7 @@ pizza-sales-performance-analytics/
 
 1. Clone the repository  
    ```bash
-   git clone 
+   git clone https://github.com/GiGiMolki/Pizza-Sales-Analysis-with-GiGi.git
    cd pizza-sales-performance-analytics
    ```
 
