@@ -96,16 +96,16 @@ pizza-sales-performance-analytics/
 │   └── pizza_sales_schema.sql                # Optional: schema creation script
 │
 ├── queries/
-│   ├── 01_total_revenue.sql
-│   ├── 02_monthly_revenue_trends.sql
-│   ├── 03_top_5_most_ordered_pizzas.sql
-│   ├── 04_revenue_by_size.sql
-│   ├── 05_category_sales_revenue.sql
-│   ├── 06_top_ingredients_best_sellers.sql
-│   ├── 07_orders_per_day_of_week.sql
-│   ├── 08_top_3_pizzas_per_category.sql
-│   ├── 09_average_order_size.sql
-│   └── 10_peak_ordering_hours.sql
+│   ├── 01_total_revenue.md
+|   ├── 02_monthly_revenue_trends.md
+|   ├── 03_top_5_most_ordered_pizzas.md
+|   ├── 04_revenue_by_size.md
+|   ├── 05_category_sales_revenue.md
+|   ├── 06_top_ingredients_best_sellers.md
+|   ├── 07_orders_per_day_of_week.md
+|   ├── 08_top_3_pizzas_per_category.md
+|   ├── 09_average_order_size.md
+|   └── 10_peak_ordering_hours.md
 │
 ├── reports/
 │   └── pizza_sales_insights_report.md        # Final summary of insights
