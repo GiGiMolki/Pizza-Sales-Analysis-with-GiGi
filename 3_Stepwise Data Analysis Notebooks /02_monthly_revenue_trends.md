@@ -70,7 +70,8 @@ ORDER BY
 ```
 ### ✅ 2. Average Order Value (AOV) Per Month
 
-**Query**: Calculates monthly revenue divided by number of unique orders.
+**Query**: To find the average order value per month, i.e.,
+how much revenue each order generates on average, month by month.
 
 | 📅 Month | 📦 Avg Order Value |
 |---------|---------------------|

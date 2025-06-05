@@ -316,7 +316,7 @@ This analysis ranks all pizzas by their total revenue contribution, providing a 
 - 🥇 **Top Pizza by Revenue:**  
   **The Thai Chicken Pizza** is the highest revenue-generating pizza at ₹43,434.25, dominating both in volume and value.
 
-- 🍕 **Size Matters:**  
+- 🍕 **Pizza Size Matters:**  
   - **Large (L) pizzas** account for the majority of sales, contributing nearly **46%** of total revenue.  
   - This suggests that customers prefer larger portions, which also bring higher per-unit revenue.
 

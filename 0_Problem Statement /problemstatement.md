@@ -22,7 +22,7 @@ As a Data Analyst, your role is to explore the pizza sales data using advanced S
   - Aggregate functions and filtering
   - Joins and subqueries
   - Common Table Expressions (CTEs)
-  - (Optional) Window functions for advanced analysis
+  - Window functions for advanced analysis
 - Present actionable insights to help improve sales, product offerings, and operational efficiency.
 
 This project demonstrates your ability to convert raw data into valuable insights, enabling smarter decision-making for a real-world business.
