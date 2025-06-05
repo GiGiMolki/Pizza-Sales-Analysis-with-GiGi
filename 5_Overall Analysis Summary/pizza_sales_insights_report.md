@@ -1,5 +1,7 @@
 # Pizza Sales & Performance Analytics — Comprehensive Business Report
 
+[presentation](https://gamma.app/docs/Pizza-Sales-and-Performance-Analytics-j5c7fb189fqfogu)
+
 ---
 
 ## Executive Summary
