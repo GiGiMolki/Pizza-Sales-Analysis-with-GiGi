@@ -31,3 +31,5 @@ As a Data Analyst, your role is to explore the pizza sales data using advanced S
 - Present actionable insights to help improve sales, product offerings, and operational efficiency.
 
 This project demonstrates your ability to convert raw data into valuable insights, enabling smarter decision-making for a real-world business.
+
+[ViewsandStorage](https://gamma.app/docs/Understanding-Views-and-Storage-in-SQL-y7a5ml43nuy8h4w)
